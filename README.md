@@ -1,6 +1,6 @@
 # Bitcoin: A Peer-to-Peer Electronic Cash System
 
-This repository contains the first 2 public released Bitcoin codebases by Satoshi Nakamoto. Version control and releases from v0.1.5 onward can be foundat the [Bitcoin Github repository](https://github.com/bitcoin/bitcoin/releases).
+This repository contains the first 2 public released Bitcoin codebases by Satoshi Nakamoto. Version control and releases from v0.1.5 onward can be found at the [Bitcoin Github repository](https://github.com/bitcoin/bitcoin/releases).
 
 
 ## Whitepaper
